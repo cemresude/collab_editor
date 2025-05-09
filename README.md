@@ -1,0 +1,2 @@
+# collaborative_editor
+A collaborative editor that uses socket.io, crdts as yjs and editor as Quill. Users can make changes at the same time without a single collapse. Some features are not working so this is the beta version.
